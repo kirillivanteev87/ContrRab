@@ -1,0 +1,15 @@
+/home/kirill/Рабочий стол/Contr/ContrRabota/bin/Debug/net6.0/ContrRabota
+/home/kirill/Рабочий стол/Contr/ContrRabota/bin/Debug/net6.0/ContrRabota.deps.json
+/home/kirill/Рабочий стол/Contr/ContrRabota/bin/Debug/net6.0/ContrRabota.runtimeconfig.json
+/home/kirill/Рабочий стол/Contr/ContrRabota/bin/Debug/net6.0/ContrRabota.dll
+/home/kirill/Рабочий стол/Contr/ContrRabota/bin/Debug/net6.0/ContrRabota.pdb
+/home/kirill/Рабочий стол/Contr/ContrRabota/obj/Debug/net6.0/ContrRabota.csproj.AssemblyReference.cache
+/home/kirill/Рабочий стол/Contr/ContrRabota/obj/Debug/net6.0/ContrRabota.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirill/Рабочий стол/Contr/ContrRabota/obj/Debug/net6.0/ContrRabota.AssemblyInfoInputs.cache
+/home/kirill/Рабочий стол/Contr/ContrRabota/obj/Debug/net6.0/ContrRabota.AssemblyInfo.cs
+/home/kirill/Рабочий стол/Contr/ContrRabota/obj/Debug/net6.0/ContrRabota.csproj.CoreCompileInputs.cache
+/home/kirill/Рабочий стол/Contr/ContrRabota/obj/Debug/net6.0/ContrRabota.dll
+/home/kirill/Рабочий стол/Contr/ContrRabota/obj/Debug/net6.0/refint/ContrRabota.dll
+/home/kirill/Рабочий стол/Contr/ContrRabota/obj/Debug/net6.0/ContrRabota.pdb
+/home/kirill/Рабочий стол/Contr/ContrRabota/obj/Debug/net6.0/ContrRabota.genruntimeconfig.cache
+/home/kirill/Рабочий стол/Contr/ContrRabota/obj/Debug/net6.0/ref/ContrRabota.dll
